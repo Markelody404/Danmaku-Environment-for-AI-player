@@ -1,0 +1,38 @@
+{
+    "DanmakuPPO": {
+        "checkpoints": [
+            {
+                "steps": 768,
+                "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal3\\DanmakuPPO\\DanmakuPPO-768.onnx",
+                "reward": null,
+                "creation_time": 1777479360.698021,
+                "auxillary_file_paths": [
+                    "results\\PurePPO_With_RaycasterOcclusionFinal3\\DanmakuPPO\\DanmakuPPO-768.pt"
+                ]
+            },
+            {
+                "steps": 44986,
+                "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal3\\DanmakuPPO\\DanmakuPPO-44986.onnx",
+                "reward": -5.551615496831281,
+                "creation_time": 1777479496.7954545,
+                "auxillary_file_paths": [
+                    "results\\PurePPO_With_RaycasterOcclusionFinal3\\DanmakuPPO\\DanmakuPPO-44986.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 44986,
+            "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal3\\DanmakuPPO.onnx",
+            "reward": -5.551615496831281,
+            "creation_time": 1777479496.7954545,
+            "auxillary_file_paths": [
+                "results\\PurePPO_With_RaycasterOcclusionFinal3\\DanmakuPPO\\DanmakuPPO-44986.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

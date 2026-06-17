@@ -1,0 +1,65 @@
+{
+    "DanmakuPPO": {
+        "checkpoints": [
+            {
+                "steps": 19499908,
+                "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-19499908.onnx",
+                "reward": -3.3272993210703135,
+                "creation_time": 1775949537.8815649,
+                "auxillary_file_paths": [
+                    "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-19499908.pt"
+                ]
+            },
+            {
+                "steps": 19999914,
+                "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-19999914.onnx",
+                "reward": -2.4785867360317044,
+                "creation_time": 1775950751.4649937,
+                "auxillary_file_paths": [
+                    "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-19999914.pt"
+                ]
+            },
+            {
+                "steps": 20499989,
+                "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-20499989.onnx",
+                "reward": -3.207715518772602,
+                "creation_time": 1775951997.4004698,
+                "auxillary_file_paths": [
+                    "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-20499989.pt"
+                ]
+            },
+            {
+                "steps": 20999996,
+                "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-20999996.onnx",
+                "reward": -3.494842922521962,
+                "creation_time": 1775953206.0836957,
+                "auxillary_file_paths": [
+                    "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-20999996.pt"
+                ]
+            },
+            {
+                "steps": 21485333,
+                "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-21485333.onnx",
+                "reward": null,
+                "creation_time": 1775986386.5674229,
+                "auxillary_file_paths": [
+                    "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-21485333.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 21485333,
+            "file_path": "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO.onnx",
+            "reward": null,
+            "creation_time": 1775986386.5674229,
+            "auxillary_file_paths": [
+                "results\\PurePPO_With_RaycasterOcclusionFinal\\DanmakuPPO\\DanmakuPPO-21485333.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

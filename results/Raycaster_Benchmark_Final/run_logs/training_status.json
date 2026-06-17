@@ -1,0 +1,65 @@
+{
+    "DanmakuDQN": {
+        "checkpoints": [
+            {
+                "steps": 17999947,
+                "file_path": "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-17999947.onnx",
+                "reward": 29.97438295185566,
+                "creation_time": 1775668916.2087529,
+                "auxillary_file_paths": [
+                    "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-17999947.pt"
+                ]
+            },
+            {
+                "steps": 18400499,
+                "file_path": "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18400499.onnx",
+                "reward": null,
+                "creation_time": 1775669866.4136243,
+                "auxillary_file_paths": [
+                    "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18400499.pt"
+                ]
+            },
+            {
+                "steps": 18406045,
+                "file_path": "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18406045.onnx",
+                "reward": 26.491663232445717,
+                "creation_time": 1775670509.0873418,
+                "auxillary_file_paths": [
+                    "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18406045.pt"
+                ]
+            },
+            {
+                "steps": 18499987,
+                "file_path": "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18499987.onnx",
+                "reward": 59.7527530580759,
+                "creation_time": 1775671078.3551543,
+                "auxillary_file_paths": [
+                    "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18499987.pt"
+                ]
+            },
+            {
+                "steps": 18998700,
+                "file_path": "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18998700.onnx",
+                "reward": 92.88291942576568,
+                "creation_time": 1775673794.6267672,
+                "auxillary_file_paths": [
+                    "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18998700.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 18998700,
+            "file_path": "results\\Raycaster_Benchmark_Final\\DanmakuDQN.onnx",
+            "reward": 92.88291942576568,
+            "creation_time": 1775673794.6267672,
+            "auxillary_file_paths": [
+                "results\\Raycaster_Benchmark_Final\\DanmakuDQN\\DanmakuDQN-18998700.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

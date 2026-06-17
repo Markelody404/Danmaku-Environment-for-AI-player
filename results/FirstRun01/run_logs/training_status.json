@@ -1,0 +1,29 @@
+{
+    "DanmakuDQN": {
+        "checkpoints": [
+            {
+                "steps": 2418,
+                "file_path": "results\\FirstRun01\\DanmakuDQN\\DanmakuDQN-2418.onnx",
+                "reward": -0.5064516384755412,
+                "creation_time": 1775054597.1044512,
+                "auxillary_file_paths": [
+                    "results\\FirstRun01\\DanmakuDQN\\DanmakuDQN-2418.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2418,
+            "file_path": "results\\FirstRun01\\DanmakuDQN.onnx",
+            "reward": -0.5064516384755412,
+            "creation_time": 1775054597.1044512,
+            "auxillary_file_paths": [
+                "results\\FirstRun01\\DanmakuDQN\\DanmakuDQN-2418.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}
